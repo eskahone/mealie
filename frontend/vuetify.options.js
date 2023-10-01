@@ -20,7 +20,7 @@ export default {
     // This config doesn't do anything.
     themes: {
       dark: {
-        primary: "#E58325",
+        primary: "#000000",
         accent: "#007A99",
         secondary: "#973542",
         success: "#43A047",
