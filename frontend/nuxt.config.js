@@ -324,7 +324,7 @@ export default {
       /* meta options */
       name: "Mealie",
       description: "Mealie is a recipe management and meal planning app",
-      theme_color: "#E58325",
+      theme_color: "#000000",
       ogSiteName: "Mealie",
     },
     manifest: {
